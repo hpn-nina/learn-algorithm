@@ -1,6 +1,6 @@
 <h2>Result:</h2>
-Runtime: `40 ms`
-Memory Usage: `14.4 MB`
+Runtime: 40 ms
+Memory Usage: 14.4 MB
 Python solution using hash.
 
 <h1>Problem name: Two Sum</h1>
