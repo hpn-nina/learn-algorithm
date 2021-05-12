@@ -3,7 +3,7 @@ Runtime: `40 ms`
 Memory Usage: `14.4 MB`
 Python solution using hash.
 
-<h1>__Problem name: Two Sum__</h1>
+<h1>Problem name: Two Sum</h1>
 <br>
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
