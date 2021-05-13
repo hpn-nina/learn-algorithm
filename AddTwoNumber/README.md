@@ -1,4 +1,4 @@
-[!plot](./result.png)
+![plot](./result.png)
 **DESCRIPTION**
 <br>
 <h2>Add Two Numbers</h2>
