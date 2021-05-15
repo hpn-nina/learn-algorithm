@@ -1,4 +1,5 @@
-[!plot](./result.png)
+![plot](./result.png)
+
 **DESCRIPTION**
 <br>
 <h2>Add Two Numbers</h2>
@@ -25,3 +26,5 @@ __Constraints:__
 1. The number of nodes in each linked list is in the range `[1, 100]`.
 2. `0 <= Node.val <= 9`
 3. It is guaranteed that the list represents a number that does not have leading zeros.
+
+Link: `https://leetcode.com/problems/add-two-numbers/`
